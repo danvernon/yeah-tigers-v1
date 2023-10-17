@@ -1,0 +1,50 @@
+{
+  "name": "Yeah Tigers #1125",
+  "symbol": "YT",
+  "description": "Yeah, Tigers is a brand. A beautiful brand built on the love of tigers, with a collection of 10,000 unique Yeah Tigers. By the community, for Solana lovers.",
+  "seller_fee_basis_points": 800,
+  "image": "1125.png",
+  "external_url": "yeahtigers.com",
+  "edition": 1125,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Ananas"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Orange with Happy eyes"
+    },
+    {
+      "trait_type": "Mustache",
+      "value": "Cool"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Navigator"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Semi open"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "1125.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "FMym8t9hMpv3tk8CHQjqU82CkHt2dS7AxerNehZYPCGQ",
+        "share": 100
+      }
+    ]
+  }
+}
