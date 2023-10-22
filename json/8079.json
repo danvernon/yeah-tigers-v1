@@ -3,7 +3,7 @@
   "symbol": "YT",
   "description": "Yeah, Tigers is a brand. A beautiful brand built on the love of tigers, with a collection of 10,000 unique Yeah Tigers. By the community, for Solana lovers.",
   "seller_fee_basis_points": 800,
-  "image": "8079.png",
+  "image": "https://raw.githubusercontent.com/danvernon/yeah-tigers-v1/main/json/8079.png",
   "external_url": "yeahtigers.com",
   "edition": 8079,
   "attributes": [
